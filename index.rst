@@ -1,22 +1,42 @@
-.. bootstrap documentation master file, created by
-   sphinx-quickstart on Fri Sep 13 16:25:50 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+======================
+ Bootstrap Theme Demo
+======================
 
-Welcome to bootstrap's documentation!
-=====================================
+This is a basic demo site for the `Sphinx Bootstrap Theme`_ that provides a
+minimal working Sphinx site using the theme.
 
-Contents:
+Please see the :doc:`README` page (also linked below in the TOC) for full
+details and installation instructions.
+
+.. _`Sphinx Bootstrap Theme`: https://github.com/ryan-roemer/sphinx-bootstrap-theme
+
+Contents
+========
+
+Setting up and using the theme.
 
 .. toctree::
    :maxdepth: 2
 
+   examples
+   sidebar
+   test
 
+Development history and feature wish lists.
+
+.. toctree::
+   :maxdepth: 1
+
+   HISTORY
+   TODO
+
+.. Disabled.
+..    downloads
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+
 
