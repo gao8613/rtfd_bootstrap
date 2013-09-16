@@ -14,6 +14,7 @@
 import sys, os
 
 #sys.path.append(os.path.abspath('_themes'))
+sys.path.insert(0, os.path.abspath('./'))
 
 # At the top.
 import sphinx_bootstrap_theme
